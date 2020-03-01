@@ -32,8 +32,8 @@ var timerEvent;
 
 function preload ()
 {
-    this.load.image('hex', 'assets/hex240.png');
-    this.load.image('player', 'assets/triangle.png');
+    this.load.image('hex', '/hex240.png');
+    this.load.image('player', '/triangle.png');
 }
 
 function create ()
